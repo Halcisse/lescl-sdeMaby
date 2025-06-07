@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-const images = ['/images/villa1.jpg', '/images/villa2.jpg', '/images/villa3.jpg']
+const images = ['/cles-de-maby/images/The palace/00c2e51c-c82f-4510-9fde-f8e1ec1422a0.jpeg', '/cles-de-maby/images/The palace/00cf3e82-4fc3-4d12-959e-b9c44dd0e970.jpeg', '/cles-de-maby/images/The palace/09df81a2-7136-4854-bcd2-1b1f467fc980.jpeg']
 const track = ref(null)
 let index = 0
 
